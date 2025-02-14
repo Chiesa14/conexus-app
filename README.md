@@ -158,7 +158,4 @@ npx cap run ios
     year={2023}
 }
 ```
-# conexus-app
-# conexus-app
-# conexus-app
-# conexus-app
+
